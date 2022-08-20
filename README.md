@@ -1,1 +1,1 @@
-Este es mi primer readme para ver los combios en git
+Este es mi segundo readme para ver los combios en git
